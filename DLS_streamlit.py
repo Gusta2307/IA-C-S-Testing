@@ -46,16 +46,13 @@ st.header("Ejemplo de sintaxis")
 st.code(
     """
     #Inicializacion de un player
-    player a ( args);
+    player p1 ( args);
 
     #Inicializacion de un team
-    team a ( args);
+    team t1 ( args);
 
     #Inicializacion de un game
-    game eq1 vs eq2
-    in std1
-    referee [r1, r2, r3, r4]
-    weather w;
+    game g1 ( args )
     """)
 
 
