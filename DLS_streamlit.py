@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Primera idea DLS")
+st.title("Primera idea DSL")
 
 st.markdown(
     """
