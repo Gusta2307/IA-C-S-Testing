@@ -156,5 +156,5 @@ st.subheader("Variables constantes")
 st.code("const type id")
 
 st.subheader("Equipos predeterminados")
-st.code("TEAM.barcelona # devuelve una la plantilla con el equipo del barcelona")
+st.code("TEAM.barcelona # devuelve una plantilla con el equipo del barcelona")
 
