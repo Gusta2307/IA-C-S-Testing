@@ -110,7 +110,7 @@ st.code(
 st.subheader("Asignacion")
 st.code(
     """
-    p1 -> p2 # se le asigna a p2 el valor de p1
+    p1 <- p2 # se le asigna a p1 el valor de p2
     """
 )
 
